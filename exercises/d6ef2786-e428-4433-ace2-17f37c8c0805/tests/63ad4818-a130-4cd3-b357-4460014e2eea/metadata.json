@@ -1,1 +1,1 @@
-{"id":"63ad4818-a130-4cd3-b357-4460014e2eea","arguments":["oooo","aaaa"],"weight":"5","visible":true,"input":"test04in.txt","output":"test04out.txt"}
+{"id":"63ad4818-a130-4cd3-b357-4460014e2eea","arguments":["oooo","aaaa"],"weight":"5","visible":"true","input":"test4in.txt","output":"test4out.txt"}
