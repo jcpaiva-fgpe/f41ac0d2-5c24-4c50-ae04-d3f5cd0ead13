@@ -1,0 +1,11 @@
+Arash Soleimani, Danielle Herro, Keith Evan Green,
+CyberPLAYce—A tangible, interactive learning tool fostering children’s computational thinking through storytelling,
+International Journal of Child-Computer Interaction,
+Volume 20,
+2019,
+Pages 9-23,
+ISSN 2212-8689,
+https://doi.org/10.1016/j.ijcci.2019.01.002.
+(http://www.sciencedirect.com/science/article/pii/S2212868917300971)
+Abstract: The learning environment plays a critical role in a child’s life, affecting both cognitive development and effectiveness in work or play. As the boundary between physical and digital worlds blurs, there is a need for new digital tools and physical environments to support the everyday, cyber–physicalinteractions of children. This paper presents a Research-through-Design example of CyberPLAYce, a tangible, interactive, learning construction kit for children supporting storytelling and computational thinking (CT). The construction kit facilitates and enhances child-to-child, child-to-machine, and child-to-environment interactions through semi-structured play. It offers young students the opportunity to materialize their ideas through the construction of cyber–physical story algorithms allowing them to physically alter story segments while constructing and enhancing the storyline. The CyberPLAYce research places an emphasis on the importance of employing tangible learning tools in order to enhance children’s active engagement. We focus on the motivations for CyberPLAYce, its participatory design, and results of an empirical study concerning CT with 8-12 year-old storytellers in a classroom setting. Results from the study suggest that cyber–physical activities afforded by CyberPLAYce cultivate engaged storytelling and CT practices in children. This multidisciplinary design-research contributes to construction tools for children, cyber–physical storytelling and story-construction activities, and tangible computing and programming activities that support CT.
+Keywords: Tangible storytelling; Computational thinking; Play; Childhood education; Prototyping
