@@ -1,0 +1,22 @@
+export function OK_onClick() {
+
+	let receivedData = wixWindow.lightbox.getContext();
+	console.log(receivedData);
+
+	if (receivedData) {
+		//deleting the object from the collection
+		wixData.remove("My Profile", receivedData._id)
+			.then((results) => {
+				console.log("item was removed");
+				wixWindow.lightbox.close('ok');
+			})
+			.catch((err) => {
+				console.log("error: " + err);
+				wixWindow.lightbox.close('error');
+			});
+	}
+	else{
+		console.log('item was not sent');
+	}
+}
+
